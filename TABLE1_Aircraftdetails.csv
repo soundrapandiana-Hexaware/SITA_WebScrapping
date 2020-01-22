@@ -1,0 +1,381 @@
+ICAO Aircraft Type Code,IATA Aircraft type Code,Model,Aircraft manufacturer,Year Manufactured,In Use Indicator (Yes/No),Min number of seats,Maximum of seats
+A310,310,A310,Airbus,,Yes,220,220
+A318,318,A318,Airbus,,Yes,32,118
+A319,319,A319,Airbus,,Yes,116,208
+A320,320,A320,Airbus,,Yes,136,186
+A321,321,A321,Airbus,,Yes,102,230
+A332,332,A330-200,Airbus,,Yes,208,345
+A333,333,A330-300,Airbus,,Yes,231,436
+A342,342,A340-200,Airbus,,Yes,0,0
+A343,343,A340-300,Airbus,,Yes,275,314
+A345,345,A340-500,Airbus,,Yes,237,237
+A346,346,A340-600,Airbus,,Yes,346,355
+A388,380,A380,Airbus,,Yes,480,480
+B732,732,737-200,Boeing,,Yes,97,97
+B733,733,737-300,Boeing,,Yes,122,148
+B734,734,737-400,Boeing,,Yes,145,150
+B735,735,737-500,Boeing,,Yes,126,126
+B736,736,737-600,Boeing,,Yes,108,108
+B737,737,737-700,Boeing,,Yes,118,148
+B738,738,737-800,Boeing,,Yes,138,189
+B739,739,737-900,Boeing,,Yes,175,188
+B743,743,747-300,Boeing,,Yes,412,412
+B744,744,747-400,Boeing,,Yes,268,423
+B74S,74L,747SP,Boeing,,Yes,297,297
+B752,752,757-200,Boeing,,Yes,166,199
+B753,753,757-300,Boeing,,Yes,216,262
+B762,762,767-200,Boeing,,Yes,216,216
+B763,763,767-300,Boeing,,Yes,209,270
+B764,764,767-400,Boeing,,Yes,243,243
+B772,772,777-200,Boeing,,Yes,224,402
+B773,773,777-300,Boeing,,Yes,299,514
+A140,A40,An-140,Antonow / Antonov,,Yes,52,52
+DH8A,DH8,DHC-8 Dash 8,Bombardier,,Yes,86,86
+F100,100,Fokker 100,Fokker,,Yes,109,109
+I114,I14,Il-114,Iljuschin / Ilyushin,,Yes,64,64
+A30B,,A300,Airbus,,No,266,266
+,,AS.57 Ambassador,Airspeed,,No,47,47
+,,An-10,Antonow / Antonov,,No,84,84
+,,247,Boeing,,No,10,10
+,,307 Stratoliner,Boeing,,No,33,33
+,,377 Stratocruiser,Boeing,,No,63,63
+B701,701,707,Boeing,,No,0,0
+B712,712,717,Boeing,,No,106,106
+B720,720,720,Boeing,,No,720,720
+B721,721,727,Boeing,,No,134,134
+B731,731,737-100,Boeing,,No,85,85
+B741,741,747-100,Boeing,,No,366,366
+B742,742,747-200,Boeing,,No,366,366
+,,Br. 763 Provence (761/763/765),Breguet,,No,135,135
+,,CV-540/CV-580/CV-600/CV-640,"Convair, Consolidated Vultee Aircraft Corporation",,No,52,52
+,,CV-880 / CV-990,"Convair, Consolidated Vultee Aircraft Corporation",,No,110,110
+,,Mercure,Dassault,,No,120,120
+,,D.H.106 Comet,de Havilland,,No,0,0
+DC2,,DC-2,Douglas,,No,14,14
+DC7,,DC-7,Douglas,,No,0,0
+DC85,,DC-8,Douglas,,No,259,259
+,,F.II,Fokker,,No,4,4
+,,F.VII & F.VII/3m,Fokker,,No,8,8
+TRIM,,4-AT / 5-AT TriMotor,Ford,,No,17,17
+,,HS 121 Trident,Hawker Siddeley,,No,115,115
+IL18,,Il-18,Iljuschin / Ilyushin,,No,100,100
+IL62,,Il-62,Iljuschin / Ilyushin,,No,195,195
+IL86,,Il-86,Iljuschin / Ilyushin,,No,350,350
+IL96,,Il-96,Iljuschin / Ilyushin,,No,300,300
+YK42,,Jak-42 / Yak-42,Jakowlew / Yakovlev,,No,120,120
+,,18 Lodestar,Lockheed,,No,15,15
+,,L-049 Constellation (L-649/L-749/C-69),Lockheed,,No,51,51
+,,L-188 Electra,Lockheed,,No,99,99
+,,L-1011 TriStar,Lockheed,,No,246,246
+,,L-1049 Super Constellation,Lockheed,,No,62,62
+,,L-1649 Starliner,Lockheed,,No,106,106
+,,4-0-4,Martin,,No,40,40
+DC91,,DC-9,McDonnell Douglas,,No,80,80
+,,DC-10,McDonnell Douglas,,No,255,255
+,,MD-11,McDonnell Douglas,,No,323,323
+MD81,,MD-80,McDonnell Douglas,,No,152,152
+MD90,,MD-90,McDonnell Douglas,,No,153,153
+,,Saab-90 Scandia,Saab,,No,24,24
+SM60,,SM-6000 Tri-Motor (Air Liner),Stinson,,No,10,10
+,,SE.210 Caravelle,Sud-Est (SNCASE) / Sud-Aviation,,No,140,140
+,,Tu-104,Tupolew / Tupolev,,No,70,70
+,,Tu-114 Rossija / Rossiya,Tupolew / Tupolev,,No,120,120
+T134,,Tu-134,Tupolew / Tupolev,,No,95,95
+T154,,Tu-154,Tupolew / Tupolev,,No,180,180
+TU20,,Tu-204 / Tu-214,Tupolew / Tupolev,,No,170,170
+,,Viscount,Vickers,,No,0,0
+,,950 Vanguard,Vickers,,No,126,126
+,,1100 VC10,Vickers,,No,135,135
+,,175 Britannia,Bristol,,No,139,139
+,,Fw 200 Condor,Focke-Wulf,,No,25,25
+,,685 York,AVRO,,No,56,56
+DC3,,DC-3 (C-47),Douglas,,No,28,28
+DC4,,DC-4 (C-54),Douglas,,No,0,0
+DC6,,DC-6 (C-118),Douglas,,No,0,0
+,,Il-12,Iljuschin / Ilyushin,,No,18,18
+IL14,,Il-14,Iljuschin / Ilyushin,,No,24,24
+,,Li-2,Lisunow / Lisunov,,No,14,14
+,,S.O.30 Bretagne,Sud-Ouest / SNCASO,,No,30,30
+JU52,JU5,Ju 52/3m,Junkers,,No,15,15
+,,170 Freighter / Wayfarer,Bristol,,No,0,0
+,,D.H.114 Heron,de Havilland,,No,14,14
+DHA3,,DHA-3 Drover,de Havilland Australia,,No,8,8
+BE32,,Be-32,Berijew / Beriev,,No,17,17
+C402,,401 & 402,Cessna,,No,6,6
+,,12 Electra Junior,Lockheed,,No,6,6
+,,PA-31 Navajo / Chieftain / Mojave,Piper,,No,5,5
+,,F406 Caravan II,Reims-Cessna,,No,12,12
+,,PD.808,Piaggio,,No,0,0
+BE50,,50 Twin Bonanza,Beech / Beechcraft,,No,5,5
+,,65 / 70 / 80 / 88 Queen Air,Beech / Beechcraft,,No,6,6
+,,90 / 100 King Air,Beech / Beechcraft,,No,90,90
+,,(Super) King Air 200,Beech / Beechcraft,,No,7,7
+,,(Super) King Air 300,Beech / Beechcraft,,No,6,6
+,,(Super) King Air 350,Beech / Beechcraft,,No,9,9
+,,2000 Starship,Beech / Beechcraft,,No,9,9
+C303,,T303 Crusader,Cessna,,No,5,5
+C335,,335 / 340,Cessna,,No,5,5
+C414,,414,Cessna,,No,5,5
+C421,,421 Golden Eagle,Cessna,,No,6,6
+C425,,425 Corsair & Conquest I,Cessna,,No,4,4
+C441,,441 Conquest II,Cessna,,No,0,0
+C25B,,525B Citation CJ3,Cessna,,No,8,8
+C560,,560 Citation V (Ultra/Encore),Cessna,,No,0,0
+E400,,EA-400,Extra,,No,5,5
+E500,,EA-500 (EA 400/500),Extra Aircraft,,No,5,5
+,,SA26-T Merlin II,Fairchild-Swearingen,,No,6,6
+,,SA226-T Merlin III,Fairchild-Swearingen,,No,8,8
+,,FA-300 / Commander 700,Fuji / Rockwell,,No,4,4
+G159,,Gulfstream I (Grumman G-159),Grumman / Gulfstream,,No,0,0
+,,P.180 Avanti,Piaggio,,No,9,9
+,,PA-31T Cheyenne,Piper,,No,5,5
+,,PA-42 Cheyenne III,Piper,,No,6,6
+PA46,,PA-46 Malibu,Piper,,No,5,5
+,,PA-60 Aerostar / Aerostar 600,Piper / Ted Smith,,No,4,4
+,,840 / 841 / 842,Potez,,No,0,0
+,,Aero Commander 500/520/560/680/685/720,Rockwell,,No,4,4
+,,Commander 690/695 JetProp,Rockwell / Gulfstream,,No,695,695
+,,BAe 125-800 / Hawker 800,"BAe, British Aerospace / Raytheon / Hawker Beechcraft",,No,8,8
+,,BAe 125-1000 / Hawker 1000,"BAe, British Aerospace / Raytheon / Hawker Beechcraft",,No,15,15
+PRM1,,390 Premier 1,Beech / Beechcraft,,No,6,6
+,,BD-100 Challenger 300,Bombardier,,No,8,8
+,,BD-700 Global Express,Bombardier,,No,0,0
+,,Global 5000,Bombardier,,No,17,17
+CL60,CCJ,CL-600 Challenger,Canadair / Bombardier,,No,18,18
+C500,,500 Citation I,Cessna,,No,6,6
+C525,,525 Citation Jet / Citation CJ1,Cessna,,No,6,6
+C25A,,525A Citation CJ2,Cessna,,No,6,6
+C550,,550 Citation II,Cessna,,No,12,12
+C56X,,560XL Citation Excel,Cessna,,No,0,0
+C650,,650 Citation III & VI,Cessna,,No,6,6
+C650,,650 Citation VII,Cessna,,No,6,6
+C680,,680 Citation Sovereign,Cessna,,No,0,0
+C750,,750 Citation X,Cessna,,No,0,0
+,,Falcon 10 & 100,Dassault,,No,7,7
+,,Falcon 20 & 200,Dassault,,No,12,12
+,,Falcon 50,Dassault,,No,8,8
+,,Falcon 900,Dassault,,No,19,19
+,,Falcon 2000,Dassault,,No,12,12
+FA7X,,Falcon 7X,Dassault,,No,8,8
+E135,,Legacy 600/650,EMBRAER,,No,14,14
+GLF2,,Gulfstream II (Grumman G-1159),Grumman / Gulfstream,,No,10,10
+GLF3,,Gulfstream III (G-1159A),Gulfstream Aerospace,,No,11,11
+GLF4,,Gulfstream IV (G300 / G350 / G400 / G450),Gulfstream Aerospace,,No,12,12
+GLF5,,Gulfstream V (G500 / G550),Gulfstream Aerospace,,No,13,13
+G150,,G150,Gulfstream Aerospace,,No,6,6
+GALX,,G200/G250 / Galaxy,Gulfstream Aerospace / IAI Israel Aircraft Industries,,No,8,8
+,,HS 125,Hawker Siddeley / British Aerospace,,No,0,0
+,,Hawker 4000 (Horizon),Hawker-Beechcraft (Raytheon),,No,8,8
+,,Hawker 400XP / Beechjet 400 / MU-300 Diamond,Hawker-Beechcraft (Raytheon) / Mitsubishi,,No,6,6
+,,HFB 320 Hansa,"HFB, Hamburger Flugzeugbau / MBB",,No,7,7
+,,IAI-1123 / IAI-1124 Westwind,IAI Israel Aircraft Industries,,No,0,0
+,,IAI-1125 Astra / Gulfstream G100,"IAI, Israel Aircraft Industries / Gulfstream Aerospace",,No,9,9
+,,Learjet 23,Learjet,,No,5,5
+,,Learjet 24,Learjet,,No,4,4
+,,Learjet 25,Learjet,,No,5,5
+,,Learjet 31,Learjet,,No,6,6
+,,Learjet 35 / 36,Learjet,,No,0,0
+,,Learjet 45,Learjet,,No,8,8
+,,Learjet 55,Learjet,,No,0,0
+,,Learjet 60,Learjet,,No,0,0
+,,L-1329 JetStar,Lockheed,,No,8,8
+,,SJ30-2,Sino Swearingen,,No,6,6
+SBR1,,T-39 / NA265 Sabreliner,North American / Rockwell,,No,10,10
+A700,,A700,Adam Aircraft,,No,5,5
+C510,,510 Citation Mustang,Cessna,,No,4,4
+,,D-JET,Diamond Aircraft,,No,4,4
+,,Eclipse 500,Eclipse Aviation,,No,4,4
+E50P,,Phenom 100,EMBRAER,,No,4,4
+E55P,,Phenom 300,EMBRAER,,No,6,6
+S76,S76,S-76A (S-76A+ / S-76A++),Sikorsky Aircraft,,No,12,12
+S76,S76,S-76B,Sikorsky Aircraft,,No,12,12
+S76,S76,S-76C (S-76C+ / S-76C++),Sikorsky Aircraft,,No,12,12
+A148,,An-148,Antonow / Antonov,,No,70,70
+,,ATR 42,"ATR, Avions de Transport Regional",,No,46,46
+,,ATR 72,"ATR, Avions de Transport Regional",,No,66,66
+,,Avro 748 / HS 748 / BAe 748,AVRO / Hawker Siddeley / British Aerospace,,No,0,0
+,,One-Eleven (1-11),"BAC, British Aircraft Corporation",,No,0,0
+,,Jetstream 41,"BAe, British Aerospace",,No,0,0
+B461,,BAe 146-100 / AVRO RJ70,"BAe, British Aerospace",,No,70,70
+B462,,BAe 146-200 / AVRO RJ85,"BAe, British Aerospace",,No,85,85
+B463,,BAe 146-300 / AVRO RJ100,"BAe, British Aerospace",,No,100,100
+,,ATP / Jetstream 61,"BAe, British Aerospace (BAE Systems)",,No,0,0
+BE99,,99 Airliner / Commuter,Beech / Beechcraft,,No,15,15
+B190,,1900 (Airliner),Beech / Beechcraft,,No,19,19
+,,BN-2A Mk III Trislander,Britten-Norman,,No,17,17
+CRJ1,,CRJ100 (CL-600-2B19),Canadair / Bombardier,,No,50,50
+CRJ2,,CRJ200 (CL-600-2B19),Canadair / Bombardier,,No,50,50
+CRJ7,,CRJ700 (CL-600-2C10),Canadair / Bombardier,,No,68,68
+CRJ9,,CRJ900 (CL-600-2D24),Canadair / Bombardier,,No,90,90
+D328,,Do 328 / 328-100,Dornier / Fairchild-Dornier,,No,33,33
+J328,,Do 328JET / 328-300,Dornier / Fairchild-Dornier,,No,33,33
+E120,,EMB 120 Brasilia,EMBRAER,,No,30,30
+E135,,EMB 135 / ERJ 135,EMBRAER,,No,37,37
+E135,,EMB 135 / ERJ 140,EMBRAER,,No,0,0
+E145,,EMB 145 / ERJ 145,EMBRAER,,No,50,50
+E170,,170 / ERJ 170-100,EMBRAER,,No,80,80
+E170,,175 / ERJ 170-200,EMBRAER,,No,78,78
+E190,,190 / ERJ 190-100,EMBRAER,,No,98,98
+E190,,195 / ERJ 190-200,EMBRAER,,No,108,108
+,,Metro / Metroliner,Fairchild-Swearingen,,No,19,19
+,,F27 Friendship,Fokker,,No,52,52
+F28,,F28 Fellowship,Fokker,,No,65,65
+,,Fokker 50,Fokker,,No,0,0
+F70,,Fokker 70,Fokker,,No,85,85
+,,H.P.R.7 Herald,Handley Page,,No,56,56
+YK40,,Jak-40 / Yak-40,Jakowlew / Yakovlev,,No,32,32
+,,L-610,LET,,No,40,40
+,,Saab 340,Saab,,No,37,37
+,,Saab 2000,Saab,,No,53,53
+,,Short 360,Short Brothers (Shorts),,No,39,39
+,,Superjet 100 / SSJ100,Suchoi / Suchoj / Sukhoi,,No,98,98
+,,Tu-124,Tupolew / Tupolev,,No,40,40
+T334,,Tu-334,Tupolew / Tupolev,,No,102,102
+,,VFW 614,"VFW, Vereinigte Flugtechnische Werke",,No,44,44
+,,MA60,Xian,,No,52,52
+,,Jetstream 31/32,"Handley Page / Scottish Aviation / BAe, British Aerospace",,No,0,0
+,,D.H.104 Dove,de Havilland,,No,8,8
+E110,,EMB 110 Bandeirante,EMBRAER,,No,18,18
+,,Short 330,Short Brothers (Shorts),,No,30,30
+,,615 VC.1 Viking,Vickers,,No,24,24
+,,DHC-7 Dash 7,de Havilland Canada,,No,50,50
+D228,,Do 228,Dornier,,No,19,19
+,SSC,Concorde,Aerospatiale / BAC,,No,92,92
+T144,,Tu-144,Tupolew / Tupolev,,No,135,135
+,,17 Staggerwing,Beech / Beechcraft,,No,4,4
+C310,,310 / 320,Cessna,,No,4,4
+C404,,404 Titan,Cessna,,No,9,9
+S601,NDC,SN 601 Corvette,Aerospatiale,,No,6,6
+,,MU-2,Mitsubishi,,No,6,6
+,,BN-2 Islander,Britten-Norman,,No,9,9
+,,L-410 Turbolet / L-420,LET,,No,17,17
+,,42-600,ATR,,Yes,48,48
+,,Q400,Bombardier,,Yes,71,78
+,,Superjet,Sukhoi,,Yes,87,93
+,,170,Embraer,,Yes,76,76
+,,190,Embraer,,Yes,96,99
+,,190,Embraer,,Yes,96,99
+,,E-190,Embraer,,Yes,94,106
+,,E-190-E2,Embraer,,Yes,108,108
+,,72-500,ATR,,Yes,64,72
+,,-,rouge,,Yes,136,314
+,,-,rouge,,Yes,136,314
+,,-,rouge,,Yes,136,314
+,,-,rouge,,Yes,136,314
+,,Havilland,de,,Yes,12,50
+,,Havilland,de,,Yes,12,50
+,,72-500,ATR,,Yes,64,72
+,,72-600,ATR,,Yes,68,74
+,,72-500,ATR,,Yes,64,72
+,,E-195,Embraer,,Yes,112,118
+,,195,Embraer,,Yes,118,122
+,,Avroliner,RJ-85,,Yes,95,95
+,,42-500,ATR,,Yes,44,48
+,,72-500,ATR,,Yes,64,72
+,,72-600,ATR,,Yes,68,74
+,,72-500,ATR,,Yes,64,72
+,,ERJ-135,Embraer,,Yes,37,37
+,,72-200,ATR,,Yes,66,66
+,,72-500,ATR,,Yes,64,72
+,,72-600,ATR,,Yes,68,74
+,,Otter,Twin,,Yes,16,16
+,,175,Embraer,,Yes,76,88
+,,ERJ-175,Embraer,,Yes,76,80
+,,ERJ-175,Embraer,,Yes,76,80
+,,ERJ-190,Embraer,,Yes,98,99
+,,CRJ-200,Bombardier,,Yes,50,50
+,,CRJ-700,Bombardier,,Yes,63,72
+,,CRJ-700,Bombardier,,Yes,63,72
+,,CRJ-700,Bombardier,,Yes,63,72
+,,CRJ-700,Bombardier,,Yes,63,72
+,,CRJ-900,Bombardier,,Yes,76,90
+,,CRJ-900,Bombardier,,Yes,76,90
+,,CRJ-900,Bombardier,,Yes,76,90
+,,ERJ-140,Embraer,,Yes,44,44
+,,ERJ-145,Embraer,,Yes,50,50
+,,Q400,Bombardier,,Yes,71,78
+,,E-195,Embraer,,Yes,112,118
+,,Q400,Bombardier,,Yes,71,78
+,,190,Embraer,,Yes,96,99
+,,E-190,Embraer,,Yes,94,106
+,,Air,SATA,,Yes,21,80
+,,Air,SATA,,Yes,21,80
+,,Air,SATA,,Yes,21,80
+,,Air,SATA,,Yes,21,80
+,,E-190,Embraer,,Yes,94,106
+,,E-195,Embraer,,Yes,112,118
+,,72-600,ATR,,Yes,68,74
+,,72-500,ATR,,Yes,64,72
+,,E-170,Embraer,,Yes,69,76
+,,E-170,Embraer,,Yes,69,76
+,,E-190,Embraer,,Yes,94,106
+,,E-190,Embraer,,Yes,94,106
+,,72-600,ATR,,Yes,68,74
+,,Twin,DHC-6,,Yes,17,17
+,,340B,Saab,,Yes,34,36
+,,E-190,Embraer,,Yes,94,106
+,,E-190,Embraer,,Yes,94,106
+,,CRJ-1000,Bombardier,,Yes,96,100
+,,Q400,Bombardier,,Yes,71,78
+,,42-500,ATR,,Yes,44,48
+,,72-500,ATR,,Yes,64,72
+,,E-170,Embraer,,Yes,69,76
+,,E-175,Embraer,,Yes,76,88
+,,Douglas,McDonnell,,Yes,149,158
+,,Douglas,McDonnell,,Yes,149,158
+,,CRJ-700,Bombardier,,Yes,63,72
+,,CRJ-900,Bombardier,,Yes,76,90
+,,E170,Embraer,,Yes,76,76
+,,Q400,Bombardier,,Yes,71,78
+,,Q400,Bombardier,,Yes,71,78
+,,42-500,Aerospatiale/Alenia,,Yes,44,48
+,,72-600,Aerospatiale/Alenia,,Yes,68,74
+,,Havilland,De,,Yes,12,50
+,,175,Embraer,,Yes,76,88
+,,195,Embraer,,Yes,118,122
+,,Q400,Bombardier,,Yes,71,78
+,,-,LEVEL,,Yes,136,314
+,,-,LEVEL,,Yes,136,314
+,,72-600,ATR,,Yes,68,74
+,,Superjet,Sukhoi,,Yes,87,93
+,,E-190,Embraer,,Yes,94,106
+,,E-175,Embraer,,Yes,76,88
+,,E-190,Embraer,,Yes,94,106
+,,CRJ-100/200,Bombardier,,Yes,50,50
+,,CRJ-705,Bombardier,,Yes,75,75
+,,CRJ-900,Bombardier,,Yes,76,90
+,,1900D,Beechcraft,,Yes,18,18
+,,Q400,Bombardier,,Yes,71,78
+,,E-170,Embraer,,Yes,69,76
+,,E-190,Embraer,,Yes,94,106
+,,CRJ-1000,Bombardier,,Yes,96,100
+,,CRJ-700,Bombardier,,Yes,63,72
+,,ERJ-145,Embraer,,Yes,50,50
+,,72-500,ATR,,Yes,64,72
+,,Q300,Bombardier,,Yes,50,50
+,,Q400,Bombardier,,Yes,71,78
+,,E-175,Embraer,,Yes,76,88
+,,E-190,Embraer,,Yes,94,106
+,,72-500,ATR,,Yes,64,72
+,,E-190,Embraer,,Yes,94,106
+,,ERJ-190,Embraer,,Yes,98,99
+,,CRJ-100/200,Bombardier,,Yes,50,50
+,,E-170,Embraer,,Yes,69,76
+,,E-190,Embraer,,Yes,94,106
+,,CRJ-1000,Bombardier,,Yes,96,100
+,,(ATR),ATR72-600,,Yes,70,70
+,,CRJ-900,Bombardier,,Yes,76,90
+,,ATR-42,Aerospatiale,,Yes,48,48
+,,CRJ-1000,Bombardier,,Yes,96,100
+,,CRJ-200,Bombardier,,Yes,50,50
+,,CRJ-900,Bombardier,,Yes,76,90
+,,,ATR-72,,Yes,74,74
+,,E-170,Embraer,,Yes,69,76
+,,CRJ-200,Bombardier,,Yes,50,50
+,,Q100,Bombardier,,Yes,39,39
+,,Q300,Bombardier,,Yes,50,50
+,,Q400,Bombardier,,Yes,71,78
+,,340B,Saab,,Yes,34,36
+,,E-190,Embraer,,Yes,94,106
+,,E-175,Embraer,,Yes,76,88
+,,E-190,Embraer,,Yes,94,106
